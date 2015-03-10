@@ -79,3 +79,5 @@ henrik.schack.dk
 http://darkeditor.altervista.org/darkcloud_open.php
 The text saved to DarkCloud is removed after 30-60 days of inactivity. 
 ---------------
+http://www.hanewin.net/encrypt/PGencode.htm  www.igolder.com/PGP/encryption
+----
