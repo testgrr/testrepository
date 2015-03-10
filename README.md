@@ -12,7 +12,7 @@ Ha, ha, ha
 
 md
 
-abc | def | ghi
+abc abc| def def | ghi ghi
 --:|:---:| :---
 ||
 ||
