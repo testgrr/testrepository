@@ -19,9 +19,7 @@ abc abc| def def | ghi ghi
 ||
 1|2|3
 -----------------
-
 https://keybase.io/dx
-
 https://keybase.io/docs  
 https://github.com/keybase/keybase-issues
 https://keybase.io/docs/server_security
@@ -48,20 +46,15 @@ jeff@agilebits.com
 http://gpgtools.org
 https://gpgtools.lighthouseapp.com/dashboard
 ----
-
 > keybase id maria
-
 pgp:     C4B3 15B4 7154 5281 5100 1C58 C2A5 977B 0022
 github:  maria_leah   ✓ https://gist.github.com/23423
 reddit:  maria_leah   ✓ https://reddit.com/r/Keyba...
 twitter: maria_h20    ✓ https://t.co/maria_h20/523554
 web:     mariah20.com ✓ https://mariah20.com/X904F...
 ฿ bitcoin 1MPt9BuAVM6YphzyBCNUXkh5dprThwSvbD
-
  Keybase is a website, but it's also an open source command line program. Let's walk through a terminal example, which illustrates what Keybase does. All of this can be embedded into other software, written by anyone. 
-
 ----
- 
 Notable New Members
 
 Max Krohn  co-founder of OkCupid and Keybase  keybase.io/max
@@ -74,3 +67,15 @@ Jack O'Connor programmer  keybase.io/oconnor663
 
  On the website, all crypto is performed in JavaScript, in your browser. Some people have strong feelings about this, for good reason
 ----
+x https://www.enigmail.net/documentation/quickstart.php
+----
+http://lifewinning.com/maps  
+https://twitter.com/lifewinning  
+https://keybase.io/ingrid
+https://twitter.com/schack  
+https://keybase.io/schack  
+henrik.schack.dk
+----
+http://darkeditor.altervista.org/darkcloud_open.php
+The text saved to DarkCloud is removed after 30-60 days of inactivity. 
+---------------
