@@ -2,8 +2,9 @@
 http://markdown.de/syntax/
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](http://http://i.snag.gy/O526p.jpg)](http://i.snag.gy/O526p.jpg)
 
+http://snag.gy/profile#test***com
 
 # testrepository
 testigator
