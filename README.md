@@ -2,7 +2,7 @@
 http://markdown.de/syntax/
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-[![IMAGE ALT TEXT HERE](http://http://i.snag.gy/O526p.jpg)](http://i.snag.gy/O526p.jpg)
+[![IMAGE ALT TEXT HERE](http://i.snag.gy/O526p.jpg)](http://i.snag.gy/O526p.jpg)
 
 http://snag.gy/profile#test***com
 
